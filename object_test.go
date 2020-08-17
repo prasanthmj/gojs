@@ -1,7 +1,7 @@
 package gojs_test
 
 import (
-	"github.com/simfatic/gojs"
+	"github.com/prasanthmj/gojs"
 	"testing"
 )
 

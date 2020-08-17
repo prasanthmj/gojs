@@ -1,4 +1,4 @@
-module github.com/simfatic/gojs
+module github.com/prasanthmj/gojs
 
 go 1.14
 
